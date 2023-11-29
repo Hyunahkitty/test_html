@@ -51,7 +51,7 @@
 
 
 
-/* .swiper-scrollbar{
+.swiper-scrollbar{
     right: 5%; top:50% !important;
     left:auto !important;
     width:auto !important;
@@ -60,7 +60,7 @@
     display: block !important;
     margin: 10px 0 !important;
 }
-.swiper-scrollbar-bullet-active{} */
+.swiper-scrollbar-bullet-active{}
 
 
 
